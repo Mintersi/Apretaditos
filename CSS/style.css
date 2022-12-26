@@ -16,7 +16,7 @@ h1{ font-family: 'Roboto', sans-serif ;
             background-image: linear-gradient(263deg, #4158D0 0%, #C850C0 30%, #FFCC70 66%, #ffffff 100%);
             margin-left: 25%; margin-right: 25%
         }
-/* Comentario de una sola línea */
+
 header{
     background-color: #4158D0;
 background-image: linear-gradient(263deg, #4158D0 0%, #C850C0 30%, #FFCC70 66%, #ffffff 100%);
@@ -34,8 +34,8 @@ li{
 nav a:hover
 {
     color:#67202D ;
-    font-size:1.5em;}
+    font-size:1.12em;}
     nav a:active
 {
     color:#4ec42a ;
-    font-size:1.5em;}
+    font-size:1.12em;}
